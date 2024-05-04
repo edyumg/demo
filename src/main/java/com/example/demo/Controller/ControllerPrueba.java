@@ -12,7 +12,7 @@ public class ControllerPrueba {
 
     @GetMapping
     public ResponseEntity<String> GetPruebas(){
-        return ResponseEntity.ok("Esto es una prueba de Api rest con Spring Boot");
+        return ResponseEntity.ok("Esto es una prueba de Api rest con Spring Boot para progra 3");
 
     }
 }
